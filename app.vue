@@ -4,7 +4,7 @@
       <img class="rotate-90 w-20" src="public/biene.svg" alt="Flotte Biene Logo">
       <div >
         <h1 class="text-4xl sm:text-6xl font-extrabold">Flotte Biene</h1>
-        <p class="block sm:text-xl">Webshop für Natur-, Textil- & Bienenprodukte</p>
+        <p class="block sm:text-xl">Webshop für Natur-, Textil- & Bienenprodukte kommt bald!</p>
       </div>
     </div>
     <div class="flex gap-4 flex-wrap justify-center">
